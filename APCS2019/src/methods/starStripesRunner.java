@@ -1,4 +1,4 @@
-package inputoutput;
+package methods;
 
 public class starStripesRunner {
 

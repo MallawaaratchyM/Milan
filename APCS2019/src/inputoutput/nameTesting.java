@@ -7,7 +7,7 @@ public class nameTesting {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		var keyboard = new Scanner(System.in);
+		Scanner keyboard = new Scanner(System.in);
 		String names="-";
 		int age=0;
 		System.out.println("Hey there buddy, what's your name?");

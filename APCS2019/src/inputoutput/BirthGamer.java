@@ -14,10 +14,12 @@ public class BirthGamer {
 		System.out.println("Multiply it by 5");
 		System.out.println("Add your birthday to the number (8 if you were born on the 8th)");
 		System.out.println("Enter your number");
-		var keyboard = new Scanner(System.in);
-		int age=keyboard.nextInt();
-		age=age-165;
-		int jury5=0;
+		//var keyboard = new Scanner(System.in);
+		/*
+		 * int age=keyboard.nextInt(); age=age-165; int month=age/100; age=age%100;
+		 * System.out.println("Your birthday is "+month+"/"+age);
+		 */
+		
 		
 	}
 
