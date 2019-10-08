@@ -37,4 +37,5 @@ public class GraphicsRunner extends JFrame
 	{
 		GraphicsRunner run = new GraphicsRunner();
 	}
+	
 }
