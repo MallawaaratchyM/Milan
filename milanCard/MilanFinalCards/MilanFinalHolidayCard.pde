@@ -97,7 +97,7 @@ fill(255,0,0);
 textSize(13);
  text("WELCOME TO\n SNOW CITY",160,190);
  textSize(26);
-  text("Merry Christmas, and Happy Holidays!!!", 104, 40);
+  text("Merry Christmas, and Happy Holidays!!! XD UwU", 104, 40);
   
  fill(255,255,255);
  textSize(10);
